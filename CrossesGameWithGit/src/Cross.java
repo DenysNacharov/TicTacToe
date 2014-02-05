@@ -21,6 +21,11 @@ public class Cross {
 		
 	}
 	
+	public int getXPosition(){
+		return xPosition;
+	}
 	
-	
+	public int getYPosition(){
+		return yPosition;
+	}
 }
